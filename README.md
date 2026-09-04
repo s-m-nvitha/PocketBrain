@@ -15,15 +15,15 @@ PocketBrain aims to become a personal memory layer that grows with the user.
 
 We save things every day.
 
-A reel we want to watch later.
-A useful YouTube video.
-A PDF.
-A screenshot.
-A random thought.
-A piece of text copied from somewhere.
-A conversation.
-A sketch.
-A link.
+A reel we want to watch later.  
+A useful YouTube video.  
+A PDF.  
+A screenshot.  
+A random thought.  
+A piece of text copied from somewhere.  
+A conversation.  
+A sketch.  
+A link.  
 An unfinished idea.
 
 The problem isn't always **saving** information.
@@ -34,11 +34,11 @@ PocketBrain is built around a simple idea:
 
 ### Capture → Understand → Rediscover
 
-Capture information without unnecessary organization.
+**Capture** information without unnecessary organization.
 
-Let PocketBrain understand the context and relationships between it.
+**Understand** the context and relationships around what was saved.
 
-Rediscover it when it becomes useful again.
+**Rediscover** useful information when it becomes relevant again.
 
 ---
 
@@ -55,8 +55,6 @@ Save
 Create folder
  ↓
 Choose category
- ↓
-Name it
  ↓
 Add tags
  ↓
