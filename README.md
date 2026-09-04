@@ -34,11 +34,11 @@ PocketBrain is built around a simple idea:
 
 ### Capture → Understand → Rediscover
 
-**Capture** information without unnecessary organization.
+Capture information without unnecessary organization.
 
-**Understand** the context and relationships around what was saved.
+Let PocketBrain understand the context and relationships between the things you save.
 
-**Rediscover** useful information when it becomes relevant again.
+Rediscover it when it becomes useful again.
 
 ---
 
@@ -55,6 +55,8 @@ Save
 Create folder
  ↓
 Choose category
+ ↓
+Name it
  ↓
 Add tags
  ↓
